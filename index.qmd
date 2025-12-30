@@ -1,6 +1,6 @@
 ---
 title: "Joe Fernander"
-subtitle: "Education & Social Science Data Scientist"
+subtitle: "Learning Analytics & Education Data Scientist"
 image: circular_photo.png
 about:
   template: trestles
