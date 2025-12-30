@@ -41,6 +41,17 @@ The Data Science Team primarily uses [Posit Team](https://posit.co/products/ente
 -   **Georgia Southern University:** *Master of Education (M.Ed.) in Higher Education Administration (2015)*
 -   **Georgia State University:** *Bachelor of Arts (B.A.) in Religious Studies & Philosophy (2011)*
 
+## Technical Competence
+
+| R Programming | Databases | Other |
+|----|----|----|
+| Tidyverse, odbc, ellmer, psych, ggplot2, plotly, etc. | Microsoft SQL Server | Bash |
+| Shiny | PostgreSQL | Jamovi/SPSS |
+| Quarto / R Markdown | Salesforce | Git/GitHub |
+| Plumber APIs |  |  |
+| R Packages |  |  |
+| Posit Workbench, Connect, Package Manager |  |  |
+
 ## Selected Projects
 
 The majority of my work is done in private repositories and behind firewalls. I have done my best to showcase selected project here.
