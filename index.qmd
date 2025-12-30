@@ -34,6 +34,14 @@ I work at the intersection of learning analytics, educational research, psychome
 
 The Data Science Team primarily uses [Posit Team](https://posit.co/products/enterprise/team/ "I <3 Posit!") for developing R, Quarto, Shiny applications, and Plumber to design data applications, deliver insights, and host our own APIs. Like many data scientists, I find myself also serving as a data engineer. I built and maintain a Microsoft SQL Server and PostgreSQL databases for storing and serving all of the data for our projects.
 
+## Research Interests
+
+-   Using learner data to influence student learning outcomes (through quality enhancements and predictive analytics)
+
+-   Interventions for increasing self-directed learning, academic self-concept, and mindset
+
+-   Using large language models (LLMs) for academic tutoring and personalized learning
+
 ## Degrees & Certificates
 
 -   **Georgia State University:** *Master of Science (M.S.) in Educational Research, Measurement & Statistics (2023)*
@@ -43,7 +51,7 @@ The Data Science Team primarily uses [Posit Team](https://posit.co/products/ente
 
 ## Selected Projects
 
-The majority of my work is done in private repositories and behind firewalls. I have done my best to showcase selected project here.
+The majority of my work is done in private repositories and behind firewalls. I have done my best to showcase selected projects here.
 
 -   **Course Learning Analytics Reports** (*with Kristi Chastain & Payton Seagle*): The course learning analytics reports represent a cornerstone of our learning analytics operations at USG eCampus, leveraging the standardized nature of eCore course offerings to deliver comprehensive insights into student outcomes, behaviors, and learning activities at scale. Built using Quarto and deployed to Posit Connect, each course offering in eCampus has an associated analytics report that provides a holistic view of course performance and student engagement. These reports begin with foundational course information including descriptions and learning outcomes, then progress through five-year enrollment and grade distribution trends, detailed learning outcomes analysis, and in-depth examination of gradebook patterns. The reports dive deeper into specific assessment types with dedicated analyses of course quizzes and assignments, while also tracking how students interact with course content including access patterns and engagement frequency. Finally, each report incorporates multiple layers of student feedback through course module surveys, end-of-course evaluation surveys (featuring LLM-generated summaries of qualitative responses), and course withdrawal surveys, creating a comprehensive feedback loop that informs continuous course improvement efforts.
 
