@@ -1,21 +1,30 @@
 ---
 title: "Joe Fernander"
-image: joe-fernander2.jpg
+subtitle: "Education & Social Science Data Scientist"
+image: circular_photo.png
 about:
   template: trestles
   links:
     - text: LinkedIn
-      url: "https://linkedin.com/in/mikemahoney218"
-    - text: 🦋 Bluesky
-      url: "https://bsky.app/profile/mikemahoney218.com"
+      url: "https://www.linkedin.com/in/joefernander/"
     - text: GitHub
       icon: github
-      url: "https://github.com/mikemahoney218"
+      url: "https://github.com/joefernander"
+    - text: Posit Connect Cloud
+      icon: posit-icon-fullcolor.svg
+      url: "https://connect.posit.cloud/joefernander"
+    - text: Tableau Public
+      icon: tableau.jpg
+      url: "https://public.tableau.com/app/profile/joe.fernander"
     - text: Email
-      url: "mailto:mike.mahoney.218+site@gmail.com"
+      url: "mailto:josephfernander@gmail.com"
     - text: CV
       url: "cv.pdf"
 comments: false
+execute:
+    echo: false
+    warning: false
+    message: false
 ---
 
 ::: column-page
@@ -25,23 +34,12 @@ In my current role, I serve as the Assistant Dean for Digital Innovation and Lea
 
 ## Education
 
-**Georgia State University:** *Master of Science (M.S.) in Educational Research, Measurement & Statistics (2023)*
+- **Georgia State University:** *Master of Science (M.S.) in Educational Research, Measurement & Statistics (2023)*
+- **University of North Georgia:** *Post-Master's Certificate in Transfer Leadership & Practice (2019)*
+- **Georgia Southern University:** *Master of Education (M.Ed.) in Higher Education Administration (2015)*
+- **Georgia State University:** *Bachelor of Arts (B.A.) in Religious Studies & Philosophy (2011)*
 
-**University of North Georgia:** *Post-Master's Certificate in Transfer Leadership & Practice (2019)*
-
-**Georgia Southern University:** *Master of Education (M.Ed.) in Higher Education Administration (2015)*
-
-**Georgia State University:** *Bachelor of Arts (B.A.) in Religious Studies & Philosophy (2011)*
-
-## Certifications
-
-**Salesforce Certified Associate (2025)**
-
-**Certified Tableau Data Analyst (expired) / Tableau Desktop Specialist (2020)**
-
-**Qualtrics Certified Core XM Expert Researcher (2019)**
-
-## Presentations
+## Presentations, Papers, and Reports
 
 ```{r}
 research <- tibble::tibble(
@@ -78,11 +76,4 @@ research <- tibble::tibble(
 knitr::kable(research)
 ```
 
-## Reports
-
-## R Package
-
-## Teaching Experience
-
-*University of West Georgia - XIDS 2002: College Ethics (Fall 2019 - Fall 2020, in-person and hybrid)* This course examines ethical questions and situations that affect colleges students in the American higher education system. Topics include affirmative action, free speech & campus protest, friendship & dating in college, sexual misconduct, the costs of higher education, financial aid, plagiarism, performance-enhancing drugs, extra credit and the aims of higher education.
 :::
