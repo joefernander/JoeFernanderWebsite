@@ -37,10 +37,9 @@ The Data Science Team primarily uses [Posit Team](https://posit.co/products/ente
 ## Research Interests
 
 -   Using learner data to influence student learning outcomes (through quality enhancements and predictive analytics)
-
 -   Interventions for increasing self-directed learning, academic self-concept, and mindset
-
 -   Using large language models (LLMs) for academic tutoring and personalized learning
+-   Survey methodologies for understanding student perceptions and sentiments
 
 ## Degrees & Certificates
 
