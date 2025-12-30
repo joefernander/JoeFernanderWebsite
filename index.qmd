@@ -30,7 +30,9 @@ execute:
 ::: column-page
 ## Bio
 
-I work at the intersection of learning analytics, educational research, and data science. In my current role, I serve as the Assistant Dean for Digital Innovation and Data Scientist for [USG eCampus](https://www.ecampus.usg.edu "USG eCampus provides high quality and affordable online learning experiences to all public colleges & universities in the State of Georgia.").
+I work at the intersection of learning analytics, educational research, psychometrics, survey methodology, and data science. In my current role, I serve as Assistant Dean for Digital Innovation and Data Scientist at the University System of Georgia [eCampus](https://www.ecampus.usg.edu "USG eCampus provides high quality and affordable online learning experiences to all public colleges & universities in the State of Georgia."), where I lead our Data Science and Salesforce teams. My primary interests focus on effectively using learner data to improve educational outcomes, predict student behaviors, and increase the efficiency of our operations and overall learner experience. I am also passionate about designing and analyzing surveys to better understand student sentiment and their experience in our learning environments.
+
+The Data Science Team primarily uses [Posit Team](https://posit.co/products/enterprise/team/ "I <3 Posit!") for developing R, Quarto, Shiny, and Plumber to design data applications, deliver insights, and host our own APIs.
 
 ## Degrees & Certificates
 
@@ -39,9 +41,7 @@ I work at the intersection of learning analytics, educational research, and data
 -   **Georgia Southern University:** *Master of Education (M.Ed.) in Higher Education Administration (2015)*
 -   **Georgia State University:** *Bachelor of Arts (B.A.) in Religious Studies & Philosophy (2011)*
 
-## Technologies
+## Selected Projects
 
 sdfsdfsd
-
-## Key Accomplishments
 :::
