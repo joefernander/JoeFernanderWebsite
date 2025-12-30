@@ -30,50 +30,18 @@ execute:
 ::: column-page
 ## Bio
 
-In my current role, I serve as the Assistant Dean for Digital Innovation and Lead Data Scientist for USG eCampus.
+I work at the intersection of learning analytics, educational research, and data science. In my current role, I serve as the Assistant Dean for Digital Innovation and Data Scientist for [USG eCampus](https://www.ecampus.usg.edu "USG eCampus provides high quality and affordable online learning experiences to all public colleges & universities in the State of Georgia.").
 
-## Education
+## Degrees & Certificates
 
-- **Georgia State University:** *Master of Science (M.S.) in Educational Research, Measurement & Statistics (2023)*
-- **University of North Georgia:** *Post-Master's Certificate in Transfer Leadership & Practice (2019)*
-- **Georgia Southern University:** *Master of Education (M.Ed.) in Higher Education Administration (2015)*
-- **Georgia State University:** *Bachelor of Arts (B.A.) in Religious Studies & Philosophy (2011)*
+-   **Georgia State University:** *Master of Science (M.S.) in Educational Research, Measurement & Statistics (2023)*
+-   **University of North Georgia:** *Post-Master's Certificate in Transfer Leadership & Practice (2019)*
+-   **Georgia Southern University:** *Master of Education (M.Ed.) in Higher Education Administration (2015)*
+-   **Georgia State University:** *Bachelor of Arts (B.A.) in Religious Studies & Philosophy (2011)*
 
-## Presentations, Papers, and Reports
+## Technologies
 
-```{r}
-research <- tibble::tibble(
-  Author = c(
-    "Brittany Grissette, Amanda Hawkins, Sarah Kuck, Joe Fernander",
-    "Joe Fernander",
-    "Joe Fernander",
-    "Joe Fernander",
-    "Joe Fernander",
-    "Joe Fernander",
-    "Joe Fernander"
-  ),
-  Title = c(
-    "The Effect of Collaboration and Utilization of Academic Coaches in Online Learning Environments",
-    "Assessing the Effectiveness of Virtual Labs in Asynchronous Introductory Biology Courses",
-    "Does course reinstatement affect course outcomes in eCore asynchronous online courses?",
-    "Exploring the relationship between late registration and academic performance",
-    "Is there a significant difference in proctored exam scores based on exam modality?",
-    "An analysis of the University System of Georgia Mindset Learning Project",
-    "What strategies do eCore instructors use to achieve high response rates on end-of-course evaluations?"
-  ),
-  Source = c(
-    "Advances in Online Education (in review)",
-    "University System of Georgia eCampus",
-    "University System of Georgia eCampus",
-    "University System of Georgia eCampus",
-    "University System of Georgia eCampus",
-    "University System of Georgia",
-    "University System of Georgia"
-  ),
-  Year = c(2023, 2023, 2023, 2022, 2022, 2022, 2022)
-)
+sdfsdfsd
 
-knitr::kable(research)
-```
-
+## Key Accomplishments
 :::
