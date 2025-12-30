@@ -32,7 +32,7 @@ execute:
 
 I work at the intersection of learning analytics, educational research, psychometrics, survey methodology, and data science. In my current role, I serve as Assistant Dean for Digital Innovation and Data Scientist at the University System of Georgia [eCampus](https://www.ecampus.usg.edu "USG eCampus provides high quality and affordable online learning experiences to all public colleges & universities in the State of Georgia."), where I lead our Data Science and Salesforce teams. My primary interests focus on effectively using learner data to improve educational outcomes, predict student behaviors, and increase the efficiency of our operations and overall learner experience. I am also passionate about designing and analyzing surveys to better understand student sentiment and their experience in our learning environments.
 
-The Data Science Team primarily uses [Posit Team](https://posit.co/products/enterprise/team/ "I <3 Posit!") for developing R, Quarto, Shiny, and Plumber to design data applications, deliver insights, and host our own APIs.
+The Data Science Team primarily uses [Posit Team](https://posit.co/products/enterprise/team/ "I <3 Posit!") for developing R, Quarto, Shiny applications, and Plumber to design data applications, deliver insights, and host our own APIs. Like many data scientists, I find myself also serving as a data engineer. I built and maintain a Microsoft SQL Server and PostgreSQL databases for storing and serving all of the data for our projects.
 
 ## Degrees & Certificates
 
@@ -43,5 +43,31 @@ The Data Science Team primarily uses [Posit Team](https://posit.co/products/ente
 
 ## Selected Projects
 
-sdfsdfsd
+The majority of my work is done in private repositories and behind firewalls. I have done my best to showcase selected project here.
+
+-   **Course Learning Analytics Reports** (*with Kristi Chastain & Payton Seagle*): The course learning analytics reports are a vital aspect of our learning analytics operations at USG eCampus. Since our course offerings in eCore are largely standarized, we can report on student outcomes, behaviors, and learner activities at scale. These reports are built using Quarto and are rendered to Posit Connect. Each course offering in eCampus has an associated learning analytics report which includes the following elements:
+
+    -   Course information (description, learning outcomes, etc.)
+
+    -   Enrollment and final letter grade trends for the past 5 years
+
+    -   Detailed learning outcomes results
+
+    -   Gradebook analysis
+
+    -   Course quizzes analysis
+
+    -   Course assignments analysis
+
+    -   Course content analysis (how are students accessing content, how frequently)
+
+    -   Survey results
+
+        -   Course module surveys
+
+        -   Course evaluation survey (includes an LLM summary of qualitative responses)
+
+        -   Course withdrawal survey
+
+-   
 :::
