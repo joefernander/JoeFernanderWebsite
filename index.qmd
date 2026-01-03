@@ -17,7 +17,7 @@ about:
       url: "https://github.com/joefernander"
     - text: Posit Connect Cloud
       href: "https://connect.posit.cloud/joefernander"
-      icon: "posit-icon-fullcolor.svg"
+      icon: fa-r-project
     - text: Tableau Public
       href: "https://public.tableau.com/app/profile/joe.fernander"
       icon: tableau.jpg
@@ -33,7 +33,6 @@ execute:
     warning: false
     message: false
 ---
-
 ::: column-page
 ## Bio
 
