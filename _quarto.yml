@@ -14,7 +14,7 @@ website:
       - text: "Home"
         href: index.html
   page-footer:
-    left: "Based on Template by Mike Mahoney"
+    left: Website based on template by Mike Mahoney. Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
 format:
   html:
     theme: [cosmo]
