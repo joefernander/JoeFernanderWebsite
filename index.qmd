@@ -4,9 +4,6 @@ subtitle: "Learning Analyst & Educational Data Scientist"
 image: circular_photo.png
 resources:
   - cv_joe_fernander.pdf
-  - circular_photo.png
-  - posit-icon-fullcolor.svg
-  - tableau.jpg
 about:
   template: trestles
   links:
