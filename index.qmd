@@ -4,23 +4,28 @@ subtitle: "Learning Analyst & Educational Data Scientist"
 image: circular_photo.png
 resources:
   - cv_joe_fernander.pdf
+  - posit-icon-fullcolor.svg
+  - tableau.jpg
 about:
   template: trestles
   links:
     - text: LinkedIn
+      icon: linkedin
       url: "https://www.linkedin.com/in/joefernander/"
     - text: GitHub
       icon: github
       url: "https://github.com/joefernander"
     - text: Posit Connect Cloud
-      icon: posit-icon-fullcolor.svg
-      url: "https://connect.posit.cloud/joefernander"
+      href: "https://connect.posit.cloud/joefernander"
+      icon: "posit-icon-fullcolor.svg"
     - text: Tableau Public
+      href: "https://public.tableau.com/app/profile/joe.fernander"
       icon: tableau.jpg
-      url: "https://public.tableau.com/app/profile/joe.fernander"
     - text: Email
+      icon: envelope
       url: "mailto:josephfernander@gmail.com"
     - text: CV
+      icon: file-earmark-text
       url: "cv_joe_fernander.pdf"
 comments: false
 execute:
