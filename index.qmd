@@ -19,7 +19,7 @@ about:
     - text: Email
       url: "mailto:josephfernander@gmail.com"
     - text: CV
-      url: "cv.pdf"
+      url: "cv_joe_fernander.pdf"
 comments: false
 execute:
     echo: false
@@ -32,7 +32,7 @@ execute:
 
 I work at the intersection of learning analytics, educational research, psychometrics, survey methodology, and data science. In my current role, I serve as Assistant Dean for Digital Innovation and Data Scientist at the University System of Georgia [eCampus](https://www.ecampus.usg.edu "USG eCampus provides high quality and affordable online learning experiences to all public colleges & universities in the State of Georgia."), where I lead our Data Science and Salesforce teams. My primary interests focus on effectively using learner data to improve educational outcomes, predict student behaviors, and increase the efficiency of our operations and overall learner experience. I am also passionate about designing and analyzing surveys to better understand student sentiment and their experience in our learning environments.
 
-The Data Science Team primarily uses [Posit Team](https://posit.co/products/enterprise/team/ "I <3 Posit!") for developing R, Quarto, Shiny applications, and Plumber to design data applications, deliver insights, and host our own APIs. Like many data scientists, I find myself also serving as a data engineer. I built and maintain a Microsoft SQL Server and PostgreSQL databases for storing and serving all of the data for our projects.
+The Data Science Team primarily uses [Posit Team](https://posit.co/products/enterprise/team/ "I <3 Posit!") for developing R, Quarto, Shiny applications, and Plumber to design data applications, deliver insights, and host our own APIs. Like many data scientists, I find myself also serving as a data engineer. In this role, I built and maintain MS SQL and PostgreSQL databases with engineering pipelines developed and deployed using Quarto and Posit Connect.
 
 ## Research Interests
 
@@ -55,5 +55,5 @@ The majority of my work is done in private repositories and behind firewalls. I 
 
 -   **Course Learning Analytics Reports** (*with Kristi Chastain & Payton Seagle*): The course learning analytics reports represent a cornerstone of our learning analytics operations at USG eCampus, leveraging the standardized nature of eCore course offerings to deliver comprehensive insights into student outcomes, behaviors, and learning activities at scale. Built using Quarto and deployed to Posit Connect, each course offering in eCampus has an associated analytics report that provides a holistic view of course performance and student engagement. These reports begin with foundational course information including descriptions and learning outcomes, then progress through five-year enrollment and grade distribution trends, detailed learning outcomes analysis, and in-depth examination of gradebook patterns. The reports dive deeper into specific assessment types with dedicated analyses of course quizzes and assignments, while also tracking how students interact with course content including access patterns and engagement frequency. Finally, each report incorporates multiple layers of student feedback through course module surveys, end-of-course evaluation surveys (featuring LLM-generated summaries of qualitative responses), and course withdrawal surveys, creating a comprehensive feedback loop that informs continuous course improvement efforts.
 
--   
+-   **Quiz Item Analysis Application:** The quiz item analysis dashboard performs item analysis analytics based on methods in classical testing theory for better understanding student and quiz performance from quizzes in the D2L LMS. This application includes descriptive statistics on student performance, discrimination analysis, item-rest correlation, and quiz item analysis. Many of these features are developed using the `psych` and `ctt` R packages. Further, this application connects to the OpenAI API using the `ellmer` R package for an LLM review of quiz questions ensuring accuracy and question feedback.
 :::
