@@ -33,6 +33,7 @@ execute:
     warning: false
     message: false
 ---
+
 ::: column-page
 ## Bio
 
@@ -51,6 +52,7 @@ The Data Science Team primarily uses [Posit Team](https://posit.co/products/ente
 ## Degrees & Certificates
 
 -   **Georgia State University:** *Master of Science (M.S.) in Educational Research, Measurement & Statistics (2023)*
+    -   Master's Project: [*Do Course-Specific Nudges & Advisors Enhance Online Course Engagement and Student Success?*](https://joefernander-gsu-masters-thesis.share.connect.posit.cloud/)
 -   **University of North Georgia:** *Post-Master's Certificate in Transfer Leadership & Practice (2019)*
 -   **Georgia Southern University:** *Master of Education (M.Ed.) in Higher Education Administration (2015)*
 -   **Georgia State University:** *Bachelor of Arts (B.A.) in Religious Studies & Philosophy (2011)*
