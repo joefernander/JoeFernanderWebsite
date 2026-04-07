@@ -50,7 +50,7 @@ The Data Science Team primarily uses [Posit Team](https://posit.co/products/ente
 -   Survey methodologies for understanding student perceptions and sentiments
 
 ## Degrees & Certificates
--   **Georgia State University:** *Doctor of Philosophy (Ph.D.) in Educational Policy Studies, Research, Measurement & Statistics (in-progress)*
+-   **Georgia State University:** *Doctor of Philosophy (Ph.D.) in Educational Policy Studies: Research, Measurement & Statistics (in-progress)*
 -   **Georgia State University:** *Master of Science (M.S.) in Educational Research, Measurement & Statistics (2023)*
     -   Master's Project: [*Do Course-Specific Nudges & Advisors Enhance Online Course Engagement and Student Success?*](https://joefernander-gsu-masters-thesis.share.connect.posit.cloud/){target="_blank"}
 -   **University of North Georgia:** *Post-Master's Certificate in Transfer Leadership & Practice (2019)*
