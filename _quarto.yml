@@ -9,10 +9,11 @@ website:
   comments:
     utterances:
       repo: joefernander/resume
+  page-navigation: false
   navbar:
     right:
       - text: "Home"
-        href: index.html
+        href: index.qmd
   page-footer: Website based on template by Mike Mahoney. Made with <i class="fa-brands fa-r-project"></i> and Quarto<br>
 format:
   html:
