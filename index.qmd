@@ -37,6 +37,8 @@ execute:
 
 {{< include sections/bio.md >}}
 
+## Education & Experience
+
 {{< include sections/degrees.md >}}
 
 {{< include sections/experience.md >}}
